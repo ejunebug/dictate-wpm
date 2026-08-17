@@ -1,4 +1,4 @@
-# dictate_wpm
+# dictate-wpm
 
 Generates an audio recording of a text file, read aloud at a precise
 words-per-minute rate — including very slow rates (e.g. 10 WPM) that
