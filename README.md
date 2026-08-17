@@ -1,8 +1,7 @@
 # dictate-wpm
 
 Generates an audio recording of a text file, read aloud at a precise
-words-per-minute rate — including very slow rates (e.g. 10 WPM) that
-standard text-to-speech speed controls can't produce cleanly.
+words-per-minute rate — including very slow rates (e.g. 10 WPM).
 
 Useful for building dictation practice audio, transcription or stenography
 speed training, or any situation where you need speech paced to an exact
