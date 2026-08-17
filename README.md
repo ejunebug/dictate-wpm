@@ -13,7 +13,7 @@ entire input text in a single API call, uses the returned per-word
 timing metadata to slice out each word, then reassembles the words with
 calculated silence gaps to hit the exact target WPM.
 
-Notes
+### Notes
 - Requires internet access at runtime (free, no API key)
 - the edge-tts library essentially reverse-engineers Microsoft's
   API, so this is not officially supported and may break without warning.
